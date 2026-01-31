@@ -6,7 +6,7 @@ export default class GameScene extends Phaser.Scene {
     }
 
     preload() {
-//prueba cambio waaa22222
+//la habeis liado
 
         this.load.audio('snd_board', '/src/assets/sounds/tenna_island.ogg');
 
